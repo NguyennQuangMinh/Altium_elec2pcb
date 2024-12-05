@@ -1,0 +1,19 @@
+Added Component: Designator=U3(VSOP-10_19.6_230_57X12_SMD)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "MSOP-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ADS1115IDGSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "595-ADS1115IDGSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "Mouser"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=ALERT Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=AIN0 Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=AIN2 Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=3.3VA Pin=U3-8
+Added Pin To Net: NetName=P1.7 Pin=U3-9
+Added Pin To Net: NetName=P1.6 Pin=U3-10
+Added Member To Class: ClassName=Mach dieu khien tu xa Member=Component U3 ADS1115IDGSR
+Added Room: Name=Mach dieu khien tu xa

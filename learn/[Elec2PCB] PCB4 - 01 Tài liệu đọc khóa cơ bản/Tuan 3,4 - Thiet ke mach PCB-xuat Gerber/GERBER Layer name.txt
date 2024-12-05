@@ -1,0 +1,16 @@
+*.GTO Top-Overlay
+*.GTP Top-Paste
+
+*.GTL top layer
+*.GP1 Inner layer1
+*.G1 Inner layer2
+*.G2 Inner layer3
+*.GP2 Inner layer4
+*.GBL Bot layer
+
+*.GBP Bot-Paste
+*.GBO Top-Overlay
+
+
+
+

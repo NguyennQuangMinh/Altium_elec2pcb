@@ -1,0 +1,20 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\thuat\Desktop\Du an PCB mau 1\PCB_Thuat.PcbDoc
+Date     : 06/10/2016
+Time     : 11:23:12 AM
+
+Processing Rule : Matched Lengths(Tolerance=40mm) (InxSignalClass('xSignals_IC1_Passives_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=30mm) (InxSignalClass('xSignals_IC1_R15,R16,R17,R18,R19_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.2mm) (InxSignalClass('xSignals_ANT2_ANT1_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.2mm) (InxSignalClass('xSignals_ANT2_ANT1_MatchLengthsClass_1'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:01

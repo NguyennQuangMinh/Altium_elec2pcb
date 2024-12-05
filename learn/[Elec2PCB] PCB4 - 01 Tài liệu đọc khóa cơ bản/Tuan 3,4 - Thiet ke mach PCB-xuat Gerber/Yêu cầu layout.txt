@@ -1,0 +1,5 @@
+Tuần này sử dụng mạch nguyên lý mà các bạn đã vẽ trong tuần 2 để thực hiện vẽ layout!
+- Bài 1: Mạch trái tim, vẽ PCB 1 lớp, linh kiện đặt lớp TOP, đi dây đồng ở lớp BOTTOM
+- Bài 2: Mạch cầu H, vẽ mạch 2 lớp, linh kiện đặt trên cả 2 lớp, đi dây trên cả 2 lớp
+- Bài 3: Mạch khoá số điện tử, vẽ mạch 2 lớp, linh kiện đặt trên cả 2 lớp, đi dây trên cả 2 lớp
+- Bài 4: Mạch điều khiển từ xa, vẽ mạch 2 lớp, linh kiện đặt trên cả 2 lớp, đi dây trên cả 2 lớp

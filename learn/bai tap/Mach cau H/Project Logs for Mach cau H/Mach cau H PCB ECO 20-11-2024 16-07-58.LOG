@@ -1,0 +1,239 @@
+Added Component: Designator=C1(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004764"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 101 0.1nF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004764"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 101 0.1nF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004764"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 101 0.1nF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(JP 1x2 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(JP 1x4 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(JP 1x5 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C9015"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C9015"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(TO92)
+Add component (AddParameter): Name = "Value"; Value = "A1015"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(TO92)
+Add component (AddParameter): Name = "Value"; Value = "A1015"; VariantName = "[No Variations]"
+Added Component: Designator=Q7(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=Q9(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C9015"; VariantName = "[No Variations]"
+Added Component: Designator=Q10(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C9015"; VariantName = "[No Variations]"
+Added Component: Designator=Q11(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=Q12(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=Q13(TO92)
+Add component (AddParameter): Name = "Value"; Value = "A1015"; VariantName = "[No Variations]"
+Added Component: Designator=Q14(TO92)
+Add component (AddParameter): Name = "Value"; Value = "A1015"; VariantName = "[No Variations]"
+Added Component: Designator=Q15(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=Q16(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=R1(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 220R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 220R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 220R"; VariantName = "[No Variations]"
+Added Component: Designator=R8(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 220R"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=GND Pin=JP3-5
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=Q7-2
+Added Pin To Net: NetName=GND Pin=Q8-2
+Added Pin To Net: NetName=GND Pin=Q13-2
+Added Pin To Net: NetName=GND Pin=Q14-2
+Added Pin To Net: NetName=GND Pin=Q15-2
+Added Pin To Net: NetName=GND Pin=Q16-2
+Added Net: Name=GND
+Added Pin To Net: NetName=IN A Pin=JP3-1
+Added Pin To Net: NetName=IN A Pin=R3-1
+Added Pin To Net: NetName=IN A Pin=R6-1
+Added Net: Name=IN A
+Added Pin To Net: NetName=IN B Pin=JP3-2
+Added Pin To Net: NetName=IN B Pin=R4-1
+Added Pin To Net: NetName=IN B Pin=R5-1
+Added Net: Name=IN B
+Added Pin To Net: NetName=IN C Pin=JP3-3
+Added Pin To Net: NetName=IN C Pin=R9-1
+Added Pin To Net: NetName=IN C Pin=R12-1
+Added Net: Name=IN C
+Added Pin To Net: NetName=IN D Pin=JP3-4
+Added Pin To Net: NetName=IN D Pin=R10-1
+Added Pin To Net: NetName=IN D Pin=R11-1
+Added Net: Name=IN D
+Added Pin To Net: NetName=MA Pin=C2-1
+Added Pin To Net: NetName=MA Pin=JP2-1
+Added Pin To Net: NetName=MA Pin=Q2-3
+Added Pin To Net: NetName=MA Pin=Q6-1
+Added Net: Name=MA
+Added Pin To Net: NetName=MB Pin=C2-2
+Added Pin To Net: NetName=MB Pin=JP2-2
+Added Pin To Net: NetName=MB Pin=Q1-3
+Added Pin To Net: NetName=MB Pin=Q5-1
+Added Net: Name=MB
+Added Pin To Net: NetName=MC Pin=C3-1
+Added Pin To Net: NetName=MC Pin=JP2-3
+Added Pin To Net: NetName=MC Pin=Q10-3
+Added Pin To Net: NetName=MC Pin=Q14-1
+Added Net: Name=MC
+Added Pin To Net: NetName=MD Pin=C3-2
+Added Pin To Net: NetName=MD Pin=JP2-4
+Added Pin To Net: NetName=MD Pin=Q9-3
+Added Pin To Net: NetName=MD Pin=Q13-1
+Added Net: Name=MD
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R2-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R1-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q7-3
+Added Pin To Net: NetName=NetQ3_1 Pin=R4-2
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=R2-1
+Added Net: Name=NetQ3_3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q8-3
+Added Pin To Net: NetName=NetQ4_1 Pin=R3-2
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R1-1
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R6-2
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R5-2
+Added Net: Name=NetQ8_1
+Added Pin To Net: NetName=NetQ9_2 Pin=Q9-2
+Added Pin To Net: NetName=NetQ9_2 Pin=R8-2
+Added Net: Name=NetQ9_2
+Added Pin To Net: NetName=NetQ10_2 Pin=Q10-2
+Added Pin To Net: NetName=NetQ10_2 Pin=R7-2
+Added Net: Name=NetQ10_2
+Added Pin To Net: NetName=NetQ11_1 Pin=Q11-1
+Added Pin To Net: NetName=NetQ11_1 Pin=Q15-3
+Added Pin To Net: NetName=NetQ11_1 Pin=R10-2
+Added Net: Name=NetQ11_1
+Added Pin To Net: NetName=NetQ11_3 Pin=Q11-3
+Added Pin To Net: NetName=NetQ11_3 Pin=R8-1
+Added Net: Name=NetQ11_3
+Added Pin To Net: NetName=NetQ12_1 Pin=Q12-1
+Added Pin To Net: NetName=NetQ12_1 Pin=Q16-3
+Added Pin To Net: NetName=NetQ12_1 Pin=R9-2
+Added Net: Name=NetQ12_1
+Added Pin To Net: NetName=NetQ12_3 Pin=Q12-3
+Added Pin To Net: NetName=NetQ12_3 Pin=R7-1
+Added Net: Name=NetQ12_3
+Added Pin To Net: NetName=NetQ15_1 Pin=Q15-1
+Added Pin To Net: NetName=NetQ15_1 Pin=R12-2
+Added Net: Name=NetQ15_1
+Added Pin To Net: NetName=NetQ16_1 Pin=Q16-1
+Added Pin To Net: NetName=NetQ16_1 Pin=R11-2
+Added Net: Name=NetQ16_1
+Added Pin To Net: NetName=TA Pin=Q4-2
+Added Pin To Net: NetName=TA Pin=Q5-3
+Added Net: Name=TA
+Added Pin To Net: NetName=TB Pin=Q3-2
+Added Pin To Net: NetName=TB Pin=Q6-3
+Added Net: Name=TB
+Added Pin To Net: NetName=TC Pin=Q12-2
+Added Pin To Net: NetName=TC Pin=Q13-3
+Added Net: Name=TC
+Added Pin To Net: NetName=TD Pin=Q11-2
+Added Pin To Net: NetName=TD Pin=Q14-3
+Added Net: Name=TD
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=JP1-1
+Added Pin To Net: NetName=VCC Pin=Q1-1
+Added Pin To Net: NetName=VCC Pin=Q2-1
+Added Pin To Net: NetName=VCC Pin=Q9-1
+Added Pin To Net: NetName=VCC Pin=Q10-1
+Added Net: Name=VCC
+Added Class: Name=Mach cau H
+Added Room: Name=Mach cau H

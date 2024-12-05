@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=VCC Pin=HD1-1
+Removed Pin From Net: NetName=GND Pin=HD1-2
+Removed Pin From Net: NetName=NetIC1_14 Pin=IC2-3
+Removed Pin From Net: NetName=NetIC2_7 Pin=R2-1
+Removed Pin From Net: NetName=NetIC2_7 Pin=R2-2
+Removed Pin From Net: NetName=NetC2_1 Pin=R2-3
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=NetLED1_2 Pin=R3-2
+Removed Member From Class: ClassName=Duc.bai1 Member=HD1
+Change Component Footprint: Designator=R2 Old Footprint=VR1 New Footprint=RES 1/4W CFR25
+Change Component Comment : Designator=C2 Old Comment=1uF,50V New Comment=GSR10M016-0511TAF
+Change Component Comment : Designator=R2 Old Comment=10K New Comment=CF1/4W1KJ25
+Change Component Comment : Designator=C1 Old Comment=10uF,50V New Comment=GSR10M016-0511TAF
+Change Component Comment : Designator=IC1 Old Comment=4017 New Comment=CD4017
+Change Component Comment : Designator=R1 Old Comment=CF1/4W2K2J25 New Comment=CF1/4W1KJ25
+Change Component Comment : Designator=R3 Old Comment=CF1/4W330RJ25 New Comment=CF1/4W1KJ25
+Change Component Comment : Designator=IC2 Old Comment=NE555 New Comment=LM555
+Added Component: Designator=JP1(CON2)
+Added Component: Designator=R4(VR1)
+Added Pin To Net: NetName=VCC Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetLED1_2 Pin=R2-2
+Added Pin To Net: NetName=NetIC1_14 Pin=R3-1
+Added Pin To Net: NetName=NetIC2_7 Pin=R4-1
+Added Pin To Net: NetName=NetIC2_7 Pin=R4-2
+Added Pin To Net: NetName=NetC2_1 Pin=R4-3
+Added Pin To Net: NetName=NetIC2_3 Pin=IC2-3
+Added Pin To Net: NetName=NetIC2_3 Pin=R3-2
+Added Net: Name=NetIC2_3
+Change Class Name : Old Net Name=Duc.bai1 New Net Name=Mach trai tim
+Added Member To Class: ClassName=Mach trai tim Member=Component JP1 9VDC
+Added Member To Class: ClassName=Mach trai tim Member=Component R4 100K

@@ -1,0 +1,36 @@
+elec2pcb.com
+---------------------
+http://www.3dcontentcentral.com/default.aspx
+
+Luoc duc thang 1 hang 2.54: http://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=13296
+Luoc duc thang 2 hang 2.54: http://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=13325
+Luoc duc cong 1 hang 2.54: http://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=168039 (loai 1)
+						 
+Luoc LCD http://www.3dcontentcentral.com/secure/Download-Partner-Model.aspx?partner=TraceParts&name=Female+header++pitch+2.54mm++straight++single+row++02+-+40+contacts&lang=en&catalogid=7288&id=296471&parturl=http%3a%2f%2fwww.tracepartsonline.net%2fws%2f3dcc%2fproduct.aspx%3ffwsid%3d3DCC%26product%3d10-23062010-067691%26htb%3d1%26lang%3den						  
+conector mau trang 1 hang: http://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=206682 (ok)
+						   Header 2.54 mm WTB vert KK f/lock 3w (loai 2)
+conector mau den 2 hang: http://www.3dcontentcentral.com/parts/download-part.aspx?id=173229&catalogid=171
+cac loai domino xanh: http://www.3dcontentcentral.com/parts/supplier/PHOENIX-CONTACT.aspx?cache=20:7415
+						http://www.3dcontentcentral.com/Search.aspx?arg=Terminal%20Blocks
+Led 7 doan don: http://www.3dcontentcentral.com/Search.aspx?arg=LED&page=5
+				http://www.3dcontentcentral.com/Search.aspx?arg=led%207%20seg
+Led don 5mm:	http://www.3dcontentcentral.com/Search.aspx?arg=LED%205mm&page=2
+
+Led 0805: http://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=227428
+LED MATRIX 3mm: http://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=292113
+USB MINI B http://www.3dcontentcentral.com/Download-Model.aspx?catalogid=171&id=130178
+						  
+hay: http://www.3dcontentcentral.com/Search.aspx?arg=Header%202.54		
+http://www.3dcontentcentral.com/Search.aspx?arg=JST%20BxB-PH-K-S%20	
+http://www.3dcontentcentral.com/Search.aspx?arg=Connector%20Header%202.54%20mm%20&page=18			  
+
+capacitor: http://www.3dcontentcentral.com/Search.aspx?arg=Capacitors%200805
+capacitor SMD http://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=421861
+inductor SMD http://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=214087
+
+Resistor SMD http://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=210621
+FULL IC PQFP-Gxx http://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=226488
+
+Full Header SMD 1.27: http://www.3dcontentcentral.com/Search.aspx?arg=header%20smd%201.27
+
+

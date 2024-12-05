@@ -1,0 +1,39 @@
+Added Component: Designator=IC2(MIC29302A)
+Added Component: Designator=IC3(RTC-BQ32000)
+Added Component: Designator=SW6(SW-POWER)
+Added Component: Designator=XT1(CR_32768)
+Added Pin To Net: NetName=VBAT Pin=IC2-1
+Added Pin To Net: NetName=VBAT Pin=IC2-2
+Added Pin To Net: NetName=GND Pin=IC2-3
+Added Pin To Net: NetName=VSIM Pin=IC2-4
+Added Pin To Net: NetName=NetIC2_5 Pin=IC2-5
+Added Pin To Net: NetName=GND Pin=IC2-6
+Added Pin To Net: NetName=NetIC3_1 Pin=IC3-1
+Added Pin To Net: NetName=NetIC3_2 Pin=IC3-2
+Added Pin To Net: NetName=NetIC3_3 Pin=IC3-3
+Added Pin To Net: NetName=GND Pin=IC3-4
+Added Pin To Net: NetName=NetIC3_5 Pin=IC3-5
+Added Pin To Net: NetName=NetIC3_6 Pin=IC3-6
+Added Pin To Net: NetName=NetIC3_7 Pin=IC3-7
+Added Pin To Net: NetName=3V3 Pin=IC3-8
+Added Pin To Net: NetName=VPOUT Pin=SW6-1
+Added Pin To Net: NetName=VPOUT Pin=SW6-1
+Added Pin To Net: NetName=VPOUT Pin=SW6-1
+Added Pin To Net: NetName=VPOUT Pin=SW6-1
+Added Pin To Net: NetName=VPOUT Pin=SW6-1
+Added Pin To Net: NetName=VPOUT Pin=SW6-1
+Added Pin To Net: NetName=VPOUT Pin=SW6-1
+Added Pin To Net: NetName=VBAT Pin=SW6-2
+Added Pin To Net: NetName=VBAT Pin=SW6-2
+Added Pin To Net: NetName=VBAT Pin=SW6-2
+Added Pin To Net: NetName=VBAT Pin=SW6-2
+Added Pin To Net: NetName=VBAT Pin=SW6-2
+Added Pin To Net: NetName=VBAT Pin=SW6-2
+Added Pin To Net: NetName=VBAT Pin=SW6-2
+Added Pin To Net: NetName=GND Pin=XT1-0
+Added Pin To Net: NetName=NetIC3_2 Pin=XT1-1
+Added Pin To Net: NetName=NetIC3_1 Pin=XT1-2
+Added Member To Class: ClassName=A-GSM Member=Component IC2 MIC29302/TO252-5
+Added Member To Class: ClassName=A-Main Member=Component IC3 BQ32000/8-SOIC
+Added Member To Class: ClassName=A-Power Member=Component SW6 ON/OFF
+Added Member To Class: ClassName=A-Main Member=Component XT1 32768Hz

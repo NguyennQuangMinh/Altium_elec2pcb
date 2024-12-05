@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=VCC Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Member From Class: ClassName=Mach trai tim Member=C19
+Change Component Footprint: Designator=C1 Old Footprint=CP2/5 New Footprint=tu hoa 5mm
+Change Component Comment : Designator=C1 Old Comment=1uF/50V New Comment=1uF, 50V
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CP2/5"; UniqueID = "\VSAMYZKH" ("\VSAMYZKH")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001355"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 1uF 50V 5x11MM"; VariantName = "[No Variations]"
+Added Component: Designator=C2(tu hoa 5mm)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001355"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 1uF 50V 5x11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC2_1
+Added Member To Class: ClassName=Mach trai tim Member=Component C2 1uF, 50V
+Added Room: Name=Mach trai tim
